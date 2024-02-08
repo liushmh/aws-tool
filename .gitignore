@@ -1,0 +1,39 @@
+# Node.js rules
+node_modules/
+.env
+.DS_Store
+logs/
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# Python rules
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+.env
+venv/
+myenv/
+env/
+ENV/
+env.bak/
+ENV.bak/
+*.sqlite3
+*.sqlite3-journal
+instance/
+.ipynb_checkpoints
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# General
+*.log
+*.tmp
+*.tmp.*
+temp/
+tmp/
